@@ -14,4 +14,11 @@ Compilation instructions:
 			make
 			./murder
 			
+**CONTRIBUTIONS**
+
+HERE ARE THE CONTRIBUTORS THAT MADE THIS PROJECT HAPPEN:
+
+1. cdj9837
+2. bkrone2021
+3. marvinwel
 	
